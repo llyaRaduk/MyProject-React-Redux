@@ -1,0 +1,13 @@
+.nav{
+  background-color: green;
+  color: white;
+}
+.list{
+  list-style-type: none;
+}
+.list a{
+  text-decoration: none;
+}
+.active{
+  color:gold;
+}

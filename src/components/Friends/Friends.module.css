@@ -1,0 +1,13 @@
+.current{
+  font-weight: bold;
+  color: rgb(89, 152, 224);
+}
+span:hover{
+  cursor: pointer;
+}
+.avatar{
+  width: 10%;
+}
+.user{
+  margin-top: 30px;
+}

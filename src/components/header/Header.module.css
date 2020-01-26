@@ -1,0 +1,6 @@
+.header{
+  display: flex;
+  justify-content: center;
+  background-color: green;
+  grid-column: 1/3;
+}
